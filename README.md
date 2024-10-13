@@ -1,3 +1,8 @@
+# Final Project
+### DTSA 5510 - Unsupervised Machine Learning, as part of the MS-DS program
+#### University of Colorado, Boulder
+##### October 2024
+
 ## Introduction
 
 For this project, I will be working with the Wine dataset from the University of California, Irvine. I will be using a few different clustering methods on the dataset and tuning some hyperparameters to optimize classification accuracy.
